@@ -1,5 +1,5 @@
 # 💫 About Me:
- 3rd-year BE CSE student at Chandigarh University<br> Learning DSA, Java, DBMS, OS, and Computer Networks<br> Open to collaborating on college projects and DSA practice<br>Ask me about core CSE subjects<br>Fun fact: I enjoy strengthening fundamentals through problem-solving
+🎓3rd-year BE CSE student at Chandigarh University<br> 🌱Learning DSA, Java, DBMS, OS, and Computer Networks<br>👯Open to collaborating on college projects and DSA practice<br>💬Ask me about core CSE subjects<br>⚡Fun fact: I enjoy strengthening fundamentals through problem-solving
 
 
 ## 🌐 Socials:
